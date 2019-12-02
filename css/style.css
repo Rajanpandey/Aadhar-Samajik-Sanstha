@@ -553,10 +553,6 @@ button:focus {
       -ms-transform: scale(1.2); }
     .event_area .single_event:hover .img-overlay {
       background: initial; }
-    .event_area .single_event:hover .primary_btn {
-      background: #fdbb00;
-      border: 1px solid #fdbb00;
-      color: #222222; }
 
 @media (max-width: 991px) {
   .event-details-area .condition-right h2 {
