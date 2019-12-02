@@ -1,4 +1,5 @@
-<?php
+<!-- Can be reused to send email -->
+<!-- <?php
 
     $to = "rockybd1995@gmail.com";
     $from = $_REQUEST['email'];
@@ -34,4 +35,4 @@
 
     $send = mail($to, $subject, $body, $headers);
 
-?>
+?> -->
