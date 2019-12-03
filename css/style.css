@@ -422,6 +422,7 @@ button:focus {
       padding: 70px 0px 40px; } }
 
 .single_causes {
+  height: 490px;
   padding: 50px;
   border-radius: 5px;
   box-shadow: none;
